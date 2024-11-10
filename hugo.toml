@@ -14,11 +14,7 @@ theme = "paper"
 
 [menu]
 
-  [[menu.main]]
-    identifier = "blog"
-    name = "Blog"
-    url = "/"
-    weight = 0
+
   [[menu.main]]
     identifier = "about"
     name = "About"
