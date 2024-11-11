@@ -21,6 +21,8 @@
   </url><url>
     <loc>https://example.org/categories/</loc>
   </url><url>
+    <loc>https://example.org/search/</loc>
+  </url><url>
     <loc>https://example.org/series/</loc>
   </url><url>
     <loc>https://example.org/tags/</loc>
