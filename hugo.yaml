@@ -11,6 +11,9 @@ buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
 mainsections: ["posts", "papermod"]
+services:
+  googleAnalytics:
+    id: G-CJ400XYEP1
 
 languages:
   en:
