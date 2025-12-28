@@ -1,6 +1,6 @@
 baseURL: https://example.org/
 languageCode: en-us
-title: My New Hugo Site
+title: Xinghai's Blog
 theme: ["PaperMod"]
 
 enableInlineShortcodes: true
@@ -55,3 +55,8 @@ outputs:
     - HTML
     - RSS
     - JSON # necessary for search
+
+params:
+  socialIcons:
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/zhangxinghai/"
